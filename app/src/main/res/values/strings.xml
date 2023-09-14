@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ACC Helper</string>
+    <string name="Lap_title">Время круга:</string>
+    <string name="litres_per_lap">Литров на круг:</string>
+    <string name="Race_length">Время заезда:</string>
+    <string name="Res">Результаты:</string>
+    <string name="Error">Неверный ввод!</string>
+    <string name="Calc_Button">Посчитать</string>
+    <string name="Heat_Lap">Прогревочный круг</string>
+    <string name="Hint_act">Помощник</string>
+</resources>
